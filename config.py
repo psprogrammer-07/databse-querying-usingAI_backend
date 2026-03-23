@@ -6,4 +6,4 @@ DB_CONFIG = {
     "cursorclass": None
 }
 
-GEMINI_API_KEY = "apikey"
+GEMINI_API_KEY = process.env.API_KEY
