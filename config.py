@@ -6,4 +6,4 @@ DB_CONFIG = {
     "cursorclass": None
 }
 
-GEMINI_API_KEY = "AIzaSyBya3aifD6TGgBbQK13g7el80Q529YigJ4"
+GEMINI_API_KEY = "apikey"
